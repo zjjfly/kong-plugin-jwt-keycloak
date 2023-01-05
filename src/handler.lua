@@ -349,7 +349,7 @@ function JwtKeycloakHandler:access(conf)
     end
 end
 
-return 
+return JwtKeycloakHandler
 
 
 
