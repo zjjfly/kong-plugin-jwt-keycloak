@@ -1,3 +1,4 @@
+Since the orginal repo is no-longer maintained,i did some migration to make it capable with Kong Gateway 3.1.1
 <h1>Kong plugin jwt-keycloak</h1>
 
 > **:warning: No longer maintained!**
